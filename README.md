@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/IvashDima/" target="_blank">Dimon4ik</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/IvashDima/" target="_blank">Dima</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science and Software engineer are my passion</h3>
 
