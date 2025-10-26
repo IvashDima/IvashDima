@@ -15,7 +15,7 @@ Focusing on **Java (Spring Boot)** and **Python (Django, FastAPI)**, exploring *
 ---
 
 ### 🚀 Recent Projects
-- 💳 **[Internet Banking System](https://internetbank.ivashchenko.dev/)** — Secure online banking app with Spring Boot, MySQL, OAuth2.
+- 💳 **[Internet Banking System](https://github.com/Prog-Academy-projects/JavaPro_FinalProject_InternetBanking)** — Secure online banking app with Spring Boot, MySQL, OAuth2.
 - 🏆 **[CRM Backend](https://github.com/ReDI-School-projects/CRM_NoSQL)** — Python with Fast API and OAuth2, selected as *Best Project* at ReDI School.  
 - ☁️ **CI/CD Pipelines** — Automated builds and deployments via Jenkins, Docker, and GCP Cloud Run.
 
